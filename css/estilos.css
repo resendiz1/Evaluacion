@@ -1,0 +1,12 @@
+body{
+	background: #E1E2E3;
+}
+
+.alert{
+	border-style: dashed;
+	border-width: 4px;
+}
+
+.redondo{
+	border-radius: 100%;
+}
